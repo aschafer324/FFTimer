@@ -9,22 +9,22 @@
         id: 3, name: "Kaya", order: 3, timeleft: 720, color: "#af3"
     },
     {
-        id: 4, name: "Magnus", order: 4, timeleft: 720, color: "#f00"
+        id: 4, name: "Michelle", order: 4, timeleft: 720, color: "#f00"
     },
     {
-        id: 5, name: "Michelle", order: 5, timeleft: 720, color: "#f88"
+        id: 5, name: "Magnus", order: 5, timeleft: 720, color: "#f88"
     },
     {
         id: 6, name: "Erik", order: 6, timeleft: 720, color: "#00f"
     },
     {
-        id: 7, name: "Brenda", order: 7, timeleft: 720, color: "#ff0"
+        id: 7, name: "Odin", order: 7, timeleft: 720, color: "#ff0"
     },
     {
         id: 8, name: "Aaron", order: 8, timeleft: 720, color: "#0a4"
     },
     {
-        id: 9, name: "Odin", order: 9, timeleft: 720, color: "#0ff"
+        id: 9, name: "Brenda", order: 9, timeleft: 720, color: "#0ff"
     },
     {
         id: 10, name: "Davin", order: 10, timeleft: 720, color: "#666"
