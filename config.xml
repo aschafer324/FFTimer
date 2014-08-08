@@ -1,0 +1,13 @@
+﻿<widget id="com.schaferdev.fftimer" version="0.0.1">
+  <name>FFTimer</name>
+  <description>
+    Fantasy Football Draft Timer
+  </description>
+  <author email="aaron@schaferweb.com" href="http://schaferdev.com">
+    Schafer Dev
+  </author>
+  <content src="index.html" />
+  <access origin="*" />
+  <preference name="Fullscreen" value="true" />
+  <preference name="Orientation" value="landscape" />
+</widget>
