@@ -63,9 +63,9 @@ opacity:0.4;
 .pause, .reset {
     color: #fff;
     float: left;
-    margin: 20px;
+    margin: 10px;
     background-color: #333;
-    padding: 10px;
+    padding: 5px;
     text-shadow: none;
 }
 
@@ -83,3 +83,34 @@ opacity:0.4;
 .active {
     background: url(football_spinning2.gif) center center no-repeat;
 }
+
+@media (max-width: 1280px) {
+    html, body {
+        font-size:24px;
+    }
+
+    .player {
+        width:15%;
+    }
+    
+    .player .time {
+        position: absolute;
+        top: 150px;
+        left: 50px;
+        font-size:24px;
+    }
+
+    .player .name {
+        font-size:24px;
+        left: 10px;
+        position: absolute;
+    }
+
+    .player .order {
+        top: 5px;
+        right: 5px;
+        position: absolute;
+        font-size:24px;
+    }
+}
+  
